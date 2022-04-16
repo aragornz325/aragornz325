@@ -1,7 +1,7 @@
 ![banner](https://media-exp1.licdn.com/dms/image/C4D16AQErnIrnlo1t7Q/profile-displaybackgroundimage-shrink_350_1400/0/1649479540696?e=1655337600&v=beta&t=A7tXhWtQCL_rxdJMR5Nv3gYnm_I2VhPJGYDrAk0uwOg)
 
 
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h2 align="center">A passionate frontend developer from Argentina</h2>
 
 
 - 🔭 I’m currently working on **SoyHostel**
@@ -15,6 +15,24 @@
 - 📫 How to reach me **rodrigo.m.quintero@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LnsjpGLSJ_bq_yeRKLTtLWHNU_jp0O12/view](https://drive.google.com/file/d/1LnsjpGLSJ_bq_yeRKLTtLWHNU_jp0O12/view)
+
+
+
+<h3 align="center">some of my projects</h3>
+
+-Peregrinacion de los pueblos
+![Peregrinacion de los pueblos](http://rodrigoquintero.tamarindorivas.com/images/projects/peregrinacion.jpg)
+
+- VideoGames App
+-![](http://rodrigoquintero.tamarindorivas.com/images/projects/videogames.jpg)
+
+-Simply Landing Page
+![Simply Landing Page](http://rodrigoquintero.tamarindorivas.com/images/projects/slp.jpg)
+
+-SoyHostel (
+still in development)
+![soyHoster](http://rodrigoquintero.tamarindorivas.com/images/projects/slp.jpg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
