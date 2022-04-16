@@ -31,7 +31,7 @@
 
 -SoyHostel (
 still in development)
-![soyHoster](http://rodrigoquintero.tamarindorivas.com/images/projects/slp.jpg)
+![soyHoster](http://rodrigoquintero.tamarindorivas.com/images/projects/soyhoste.jpeg)
 
 
 <h3 align="left">Connect with me:</h3>
