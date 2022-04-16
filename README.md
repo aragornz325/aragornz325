@@ -1,3 +1,6 @@
+(https://media-exp1.licdn.com/dms/image/C4D16AQErnIrnlo1t7Q/profile-displaybackgroundimage-shrink_350_1400/0/1649479540696?e=1655337600&v=beta&t=A7tXhWtQCL_rxdJMR5Nv3gYnm_I2VhPJGYDrAk0uwOg)
+
+
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 
