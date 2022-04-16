@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript, NestJs,TypeORM**
 
-- 👨‍💻 All of my projects are available at [rodrigoquintero.tamarindorivas.com](rodrigoquintero.tamarindorivas.com)
+- 👨‍💻 All of my projects are available at [rodrigoquintero.tamarindorivas.com](http://rodrigoquintero.tamarindorivas.com)
 
 - 💬 Ask me about **React, Redux, Express, Postgres**
 
