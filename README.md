@@ -1,10 +1,9 @@
-![banner](https://media-exp1.licdn.com/dms/image/C4D16AQErnIrnlo1t7Q/profile-displaybackgroundimage-shrink_350_1400/0/1649479540696?e=1655337600&v=beta&t=A7tXhWtQCL_rxdJMR5Nv3gYnm_I2VhPJGYDrAk0uwOg)
 
 
-<h2 align="center">A passionate frontend developer from Argentina</h2>
+<h2 align="center">A passionate fullstack developer from Argentina</h2>
 
 
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Rodrigo (chivo) 👋
 
 I'm a passionate developer focused on innovation and technology. Currently, I specialize in creating robust and scalable solutions using a variety of modern technologies.
 
